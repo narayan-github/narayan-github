@@ -5,21 +5,7 @@
 - 🔭 Currently working on cloud data engineering projects — medallion lakehouse pipelines on Azure & Databricks
 - 🌱 Deepening my skills across the modern data stack: Spark, Databricks, Airflow, Snowflake, and multi-cloud (Azure · AWS · GCP)
 - 💬 Ask me about data pipelines, RAG systems, or the medallion architecture
-- 📫 Reach me at **narayan.samal@sigmoidanalytics.com**
-
----
-
-## 🚀 Featured Projects
-
-### [Supply Chain Logistics Tracker](https://github.com/narayan-github/Supply-Chain-Logistics-Tracker-main)
-End-to-end Azure data engineering project: a containerized Python ingestion app (Docker + Kubernetes) landing shipment, route, and warehouse data into **ADLS Gen2**, transformed through a **Bronze → Silver → Gold medallion pipeline** on **Databricks** (PySpark, Delta Lake, Unity Catalog) into business-ready datasets for BI.
-
-`Python` `Azure` `Databricks` `Delta Lake` `Docker` `Kubernetes`
-
-### [DocChat — Local RAG Document Chatbot](https://github.com/narayan-github/localdoc-chatbot)
-A 100% local, privacy-first document chatbot: chat with your PDF, Word, and Excel files. **FastAPI** backend with a full RAG pipeline (chunking, embeddings, retrieval) over **ChromaDB**, LLM inference via **Ollama** (`llama3.1:8b`), streaming responses with source attribution, document versioning, and a **React** frontend — all orchestrated with Docker Compose. No API keys, no cloud.
-
-`Python` `FastAPI` `RAG` `ChromaDB` `Ollama` `React` `Docker`
+- 📫 Reach me at [narayancoding@gmail.com](mailto:narayancoding@gmail.com)
 
 ---
 
@@ -55,6 +41,13 @@ A 100% local, privacy-first document chatbot: chat with your PDF, Word, and Exce
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+**AI / ML**
+
+![Databricks ML](https://img.shields.io/badge/Databricks%20AI%2FML-FF3621?style=flat&logo=databricks&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat)
+
 ## 📚 What I work with
 
 - **Data architecture** — Medallion (Bronze/Silver/Gold) lakehouse, data warehousing, data lakes, star & snowflake schemas
@@ -62,8 +55,4 @@ A 100% local, privacy-first document chatbot: chat with your PDF, Word, and Exce
 - **Pipelines & ETL** — Batch and streaming ingestion, Airflow DAGs, Azure Data Factory, ETL testing & source-to-target validation
 - **Data quality & governance** — Profiling, validation rules, quality dimensions, Delta constraints, lineage, Unity Catalog
 - **Data security** — Encryption at rest/in transit, KMS, RBAC, row/column-level security, masking, secrets management
-- **AI / GenAI** — Retrieval-Augmented Generation, embeddings, vector stores, local LLM serving
-
----
-
-![Narayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=narayan-github&show_icons=true&theme=default&hide_border=true)
+- **AI / GenAI** — Retrieval-Augmented Generation, embeddings, vector stores, local LLM serving, Databricks AI/ML (MLflow, model serving)
